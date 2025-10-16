@@ -1,435 +1,197 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/024b29be-3059-492d-bdcc-d82af0325e64">
-</p>
-
-<h1 align="center">🚀 AI-Powered Website Builder</h1>
-
-<p align="center"><i>Build Stunning Websites with AI Assistance</i></p>
-<p  align="center">Transform your ideas into fully functional websites using cutting-edge AI technology.
-</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
-  </a>
-  <img src="https://img.shields.io/github/last-commit/Ratna-Babu/ai-website-builder" alt="Last Commit">
-  <img src="https://img.shields.io/github/languages/top/Ratna-Babu/ai-website-builder" alt="Top Language">
-  <img src="https://img.shields.io/github/languages/count/Ratna-Babu/ai-website-builder" alt="Languages">
-  <img src="https://img.shields.io/github/repo-size/Ratna-Babu/ai-website-builder" alt="Repo Size">
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Convex-FF6F61?style=for-the-badge&logo=data:image/svg+xml;base64,... " />
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-
-<!-- Animated Line Break -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Section with Cool Icons -->
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="35">
-  About The Project
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="35">
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github.com/user-attachments/assets/c30f1bfe-5098-4c22-ab2b-0537f1802322" alt="Preview 1" width="100%"/>
-        <br/>
-        <sub><b>Real-time Code Generation</b></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github.com/user-attachments/assets/f7187bb9-1905-444c-9b0d-1fc47d8ec9c9" alt="Preview 2" width="100%"/>
-        <br/>
-        <sub><b>In-built Live Preview</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br/>
-  
-  > 🌟 **AI Website Builder** is a cutting-edge platform that revolutionizes web development by combining the power of **Gemini Flash 2.0 AI** with modern web technologies. Transform your ideas into fully functional, beautiful websites using natural language - no coding experience required!
-  
-</div>
-<div  align="center">
-     ⚠️ Note: The deployed live preview may not work as expected because code generation takes longer than Vercel’s API timeout limits.
-</div>
-
-<!-- Features Section with Animated Icons -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-  Features
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb3c0e0-6593-4bb0-8063-83c5a3701b00" width="60"><br>**AI-Powered Magic** | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dc383bd4-0752-4812-b83f-2e5f91e85c49" width="60"><br>**Modern Development** | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4db401-7578-4c7a-b045-210e59249819" width="60"><br>**Developer Experience** |
-|:---:|:---:|:---:|
-| 🧠 Smart Content Generation <br> 🎯 Natural Language to Code <br> 💡 Intelligent Suggestions <br> 🔮 Component Synthesis | ⚡ Lightning Fast <br> 🎨 Beautiful by Default <br> 🔄 Real-time Updates <br> 📱 Fully Responsive | 🛠️ Export Ready <br> 🌗 Theme Switcher <br> 🔧 Customizable <br> 📊 SEO Optimized |
-
-</div>
-
-
-<!-- Tech Stack with Animated Skills -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="35">
-  Tech Stack
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="35">
-</h2>
-
-<div align="center">
-  
-  ### 🎯 Core Technologies
-  
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" alt="Core Tech" />
-  
-  ### 🤖 AI & Backend
-  
-  <img src="https://img.shields.io/badge/Gemini_Flash_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Convex-FF6F61?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
-  
-  ### 🛠️ Tools & Libraries
-  
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,npm" alt="Tools" />
-  
-</div>
-
-<!-- Quick Start Section -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">
-  Quick Start
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="35">
-</h2>
-
-<div align="center">
-
-### 📋 Prerequisites
-
-<table>
-<tr>
-<td align="center">
-
-**Node.js**
-<br/>
-[![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org/)
-
-</td>
-<td align="center">
-
-**Package Manager**
-<br/>
-[![npm](https://img.shields.io/badge/npm-latest-red?style=flat-square&logo=npm)](https://www.npmjs.com/)
-
-</td>
-<td align="center">
-
-**Gemini API**
-<br/>
-[![API Key](https://img.shields.io/badge/API_Key-Required-blue?style=flat-square&logo=google)](https://ai.google.dev/)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🚀 Installation
-
-<details open>
-<summary><b>1️⃣ Clone & Install</b></summary>
-
-```bash
-# Clone the repository
-git clone https://github.com/Ratna-Babu/ai-website-builder.git
-
-# Navigate to project directory
-cd ai-website-builder
-
-# Install dependencies
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-</details>
-
-<details open>
-<summary><b>2️⃣ Environment Setup</b></summary>
-
-Create a `.env.local` file in the root directory:
-
-```env
-# AI Configuration
-GEMINI_API_KEY=your_gemini_api_key_here
-
-# Convex Configuration
-NEXT_PUBLIC_CONVEX_URL=your_convex_deployment_url
-
-```
-
-</details>
-
-<details open>
-<summary><b>3️⃣ Start Development</b></summary>
-
-```bash
-# Start the development server
-npm run dev
-
-# In a new terminal, start Convex
-npx convex dev
-
-# Open http://localhost:3000
-```
-
-</details>
-
-<!-- Project Structure -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b40aa850-55dc-452e-9795-4fa292e63657" width="35">
-  Project Architecture
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b40aa850-55dc-452e-9795-4fa292e63657" width="35">
-</h2>
-
-```mermaid
-graph TB
-    A[User Interface] -->|Requests| B[Next.js App Router]
-    B --> C[API Routes]
-    C --> D[Gemini AI API]
-    C --> E[Convex Backend]
-    E --> F[(Real-time Database)]
-    D -->|AI Response| C
-    E -->|Live Updates| B
-    B -->|Server Components| G[React Components]
-    G --> H[Tailwind Styling]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:4px
-    style D fill:#4285F4,stroke:#333,stroke-width:2px
-    style E fill:#FF6F61,stroke:#333,stroke-width:2px
-```
-
-<details>
-<summary><b>📁 Folder Structure</b></summary>
-
-```bash
-ai-website-builder/
-│
-├── 📂 app/                    # Next.js 14 App Router
-│   ├── 📂 api/               # API endpoints
-│   ├── 📂 (routes)/          # Page routes
-│   └── 📄 layout.tsx         # Root layout
-│
-├── 📂 components/            # React Components
-│   ├── 📂 ai/              # AI-related components
-│   ├── 📂 ui/              # UI components
-│   └── 📂 layouts/         # Layout components
-│
-├── 📂 lib/                  # Utilities
-│   ├── 📄 ai-client.ts    # AI integration
-│   └── 📄 utils.ts        # Helper functions
-│
-├── 📂 convex/              # Backend
-│   ├── 📄 schema.ts       # Database schema
-│   └── 📄 functions.ts    # Server functions
-│
-├── 📂 styles/              # Styling
-│   └── 📄 globals.css     # Global styles
-│
-└── 📂 public/              # Static assets
-```
-
-</details>
-
-<!-- Usage Examples -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb63e14-f148-4280-8051-3d692dc49f7f" width="35">
-  Usage Examples
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb63e14-f148-4280-8051-3d692dc49f7f" width="35">
-</h2>
-
-<div align="center">
-
-### 💬 Natural Language to Website
-
-<table>
-<tr>
-<td width="50%">
-
-**Your Prompt:**
-```text
-"Create a modern landing page for a 
-SaaS product with a hero section, 
-features grid, and pricing cards"
-```
-
-</td>
-<td width="50%">
-
-**AI Generates:**
-- ✅ Complete React Components
-- ✅ Responsive Tailwind Styling
-- ✅ SEO-Optimized Content
-- ✅ Interactive Elements
-
-</td>
-</tr>
-</table>
-
-
-</div>
-
-<!-- Deployment -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-86a2-4176-8a46-4cbb7b0a18cf" width="35">
-  Deployment
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-86a2-4176-8a46-4cbb7b0a18cf" width="35">
-</h2>
-
-<div align="center">
-
-### 🚀 Deploy to Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Ratna-Babu/ai-website-builder)
-
-### 🔧 Environment Variables Required
-
-| Variable | Description | Required |
-|----------|-------------|----------|
-| `GEMINI_API_KEY` | Your Gemini API key | ✅ Yes |
-| `NEXT_PUBLIC_CONVEX_URL` | Convex deployment URL | ✅ Yes |
-
-</div>
-
-<!-- Contributing -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797ec4-50c0-43b1-b799-894e2493442d" width="35">
-  Contributing
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797ec4-50c0-43b1-b799-894e2493442d" width="35">
-</a>
-</h2>
-
-<div align="center">
-
-We love contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-### 🌟 How to Contribute
-
-```mermaid
-gitGraph
-    commit id: "Fork Repository"
-    branch feature
-    checkout feature
-    commit id: "Create Feature"
-    commit id: "Write Tests"
-    commit id: "Update Docs"
-    checkout main
-    merge feature id: "Open PR"
-    commit id: "Merged! 🎉"
-```
-
-### 👥 Contributors
-
-<a href="https://github.com/Ratna-Babu/ai-website-builder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ratna-Babu/ai-website-builder"/>
-</a>
-
-</div>
-
-
-<!-- Support -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0051b6-726f-442f-8025-88936b87ce07" width="35">
-  Support & Community
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0051b6-726f-442f-8025-88936b87ce07" width="35">
-</h2>
-
-<div align="center">
-
-### 💬 Get Help
-
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/discussions)
-[![Issues](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/issues)
-
-### ⭐ Show Your Support
-
-<table>
-<tr>
-<td align="center">
-
-Give a ⭐ if this project helped you!
-
-[![GitHub stars](https://img.shields.io/github/stars/Ratna-Babu/ai-website-builder?style=social)](https://github.com/Ratna-Babu/ai-website-builder)
-
-</td>
-
-</tr>
-</table>
-
-
-</div>
-
-<!-- Acknowledgments -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f3006c22-5790-462f-b620-fb3d8724d98f" width="35">
-  Acknowledgments
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f3006c22-5790-462f-b620-fb3d8724d98f" width="35">
-</h2>
-
-<div align="center">
-
-Special thanks to these amazing projects and teams:
-
-| Project | Description |
-|---------|-------------|
-| **[Google Gemini](https://ai.google.dev/)** | For powerful AI capabilities |
-| **[Vercel](https://vercel.com/)** | For seamless deployment platform |
-| **[Convex](https://convex.dev/)** | For real-time backend infrastructure |
-| **[Next.js](https://nextjs.org/)** | For the amazing React framework |
-| **[Tailwind CSS](https://tailwindcss.com/)** | For beautiful utility-first CSS |
-
-</div>
-
-<!-- Footer -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer&text=Build%20Something%20Amazing%20Today!&fontSize=24&fontAlignY=70&animation=twinkling" alt="footer"/>
-</div>
-
-<div align="center">
-  <b><a href="#-ai-powered-website-builder">⬆ Back to Top</a></b>
-  
-  <sub>Made with ❤️ by [Ratna Babu](https://github.com/Ratna-Babu) and contributors</sub>
-  
-</div>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aprilyn Garo | bread and pastry product</title>
+  <style>
+    body {
+      background: #ffe4ec;
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 0;
+      color: #3a2e2e;
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+    }
+    header {
+      background: #ffb6d5;
+      padding: 2rem 1rem 1rem 1rem;
+      text-align: center;
+      border-bottom: 2px solid #ff8cb7;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2rem;
+      letter-spacing: 1px;
+    }
+    header p.title-sub {
+      margin: 0.4rem 0 0 0;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #5a2334;
+      text-transform: none;
+    }
+    nav {
+      margin-top: 1rem;
+    }
+    nav a {
+      color: #fff;
+      background: #ff8cb7;
+      padding: 0.45rem 0.9rem;
+      margin: 0 0.3rem;
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: bold;
+      transition: background 0.2s;
+      font-size: 0.95rem;
+    }
+    nav a:hover {
+      background: #ff5b9f;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1.5rem;
+      background: #fffafc;
+      border-radius: 18px;
+      box-shadow: 0 4px 16px 0 #ffd6eb4d;
+      flex: 1 0 auto;
+      width: calc(100% - 2rem);
+    }
+    section {
+      margin: 1.2rem 0;
+    }
+    h2 {
+      color: #d72660;
+      margin-bottom: 0.6rem;
+    }
+    .intro {
+      font-size: 1rem;
+      color: #3a2e2e;
+      margin-bottom: 0.8rem;
+    }
+    .cta {
+      display: inline-block;
+      background: #ff8cb7;
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 22px;
+      text-decoration: none;
+      font-weight: 700;
+      transition: background 0.2s;
+      margin-top: 0.5rem;
+    }
+    .cta:hover {
+      background: #ff5b9f;
+    }
+    ul.products-list {
+      list-style: none;
+      padding-left: 0;
+      margin-top: 0.5rem;
+    }
+    ul.products-list li {
+      margin: 0.8rem 0;
+      font-size: 1.05rem;
+      color: #b94b74;
+      font-weight: 500;
+      background: #ffe4ec;
+      padding: 0.9rem 1rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px 0 #ffd6eb3d;
+    }
+    .product-title {
+      font-weight: bold;
+      color: #d72660;
+      font-size: 1.05rem;
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+    .product-desc {
+      font-weight: normal;
+      color: #3a2e2e;
+      font-size: 0.98rem;
+      margin-left: 0.3rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem 0.5rem;
+      color: #6a2b42;
+      font-size: 0.95rem;
+      background: transparent;
+      border-top: 1px solid #ffd6eb6b;
+    }
+    footer .email {
+      display: block;
+      margin-top: 0.4rem;
+      color: #5a2334;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      main {
+        margin: 1rem;
+        padding: 1rem;
+      }
+      header h1 { font-size: 1.8rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Aprilyn Garo</h1>
+    <p class="title-sub">bread and pastry product</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#products">Products</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <p class="intro">I love making delicious bread and pastries and sharing them with others.</p>
+      <a class="cta" href="#products">Explore here</a>
+    </section>
+
+    <section id="products">
+      <h2>Products</h2>
+      <ul class="products-list">
+        <li>
+          <span class="product-title">Cinnamon Roll</span>
+          <span class="product-desc">Warm, soft roll swirled with cinnamon and a light glaze.</span>
+        </li>
+        <li>
+          <span class="product-title">Dinner Roll</span>
+          <span class="product-desc">Small, fluffy rolls brushed with butter for a tender bite.</span>
+        </li>
+        <li>
+          <span class="product-title">Brownies</span>
+          <span class="product-desc">Dense, chocolatey squares with a rich, fudgy center.</span>
+        </li>
+        <li>
+          <span class="product-title">Bento Cake</span>
+          <span class="product-desc">Miniature cakes decorated for gifting and sharing.</span>
+        </li>
+        <li>
+          <span class="product-title">Petit Fours</span>
+          <span class="product-desc">Tiny, elegant bites finished with colorful icing.</span>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p class="intro">Want to order or collaborate? Reach out via email below.</p>
+      <a class="cta" href="mailto:aprilyngaro9@gmail.com">Email Me</a>
+    </section>
+  </main>
+
+  <footer>
+    designed for bread and pastry product
+    <a class="email" href="mailto:aprilyngaro9@gmail.com">aprilyngaro9@gmail.com</a>
+  </footer>
+</body>
+</html>
